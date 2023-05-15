@@ -8,6 +8,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 @EnableEurekaClient
 public class CurrencyRateApplication {
 
+
     public static void main(String[] args) {
         SpringApplication.run(CurrencyRateApplication.class, args);
     }
